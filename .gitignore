@@ -12,6 +12,6 @@ loan_repayment/
 
 # Ignoring files in project employees_attrition
 
-#employees_attrition/
+employees_attrition/
 
 !employees_attrition/employee_attrition.ipynb
