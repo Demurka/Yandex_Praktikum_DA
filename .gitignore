@@ -2,10 +2,16 @@
 
 .DS_Store
 
-# 1. Ignoring for loan_repayment
+
+# Ignoring files in project loan_repayment
 
 loan_repayment/
 
-# Exception for loan_repayment:
-
 !loan_repayment/loan_repayment.ipynb
+
+
+# Ignoring files in project employees_attrition
+
+#employees_attrition/
+
+!employees_attrition/employee_attrition.ipynb
