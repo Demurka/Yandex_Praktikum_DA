@@ -15,3 +15,10 @@ loan_repayment/
 employees_attrition/
 
 !employees_attrition/employee_attrition.ipynb
+
+
+# Ignoring files in project apartment_sales
+
+apartment_sales/
+
+!apartment_sales/apartment_sales.ipynb
