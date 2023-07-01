@@ -22,3 +22,10 @@ employees_attrition/
 apartment_sales/
 
 !apartment_sales/apartment_sales.ipynb
+
+
+# Ignoring files in project games_sales
+
+games_sales/
+
+!games_sales/games_sales.ipynb
