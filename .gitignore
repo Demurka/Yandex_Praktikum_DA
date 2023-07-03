@@ -43,3 +43,11 @@ metrics_analysis/
 a_b_test/
 
 !a_b_test/a_b_test.ipynb
+
+
+# Ignoring files in project event_analytics
+
+event_analytics/
+
+!event_analytics/event_analytics.ipynb
+
