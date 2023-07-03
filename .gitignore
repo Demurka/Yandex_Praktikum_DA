@@ -33,6 +33,13 @@ games_sales/
 
 # Ignoring files in project metrics_analysis
 
-metrics_analysis
+metrics_analysis/
 
 !metrics_analysis/metrics_analysis.ipynb
+
+
+# Ignoring files in project a_b_test
+
+a_b_test/
+
+!a_b_test/a_b_test.ipynb
