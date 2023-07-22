@@ -51,3 +51,6 @@ event_analytics/
 
 !event_analytics/event_analytics.ipynb
 
+
+# Exception for .md
+!*.md
